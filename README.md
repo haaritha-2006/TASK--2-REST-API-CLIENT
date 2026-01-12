@@ -12,7 +12,7 @@
 
 *MENTOR*: Neela Santhosh Kumar
 
-##**Task Description**
+##Task Description
 
 During my professional internship at **CODTECH IT Solutions**, I was tasked with developing a **REST API Client** using Java. In the modern era of software development, applications rarely exist in isolation; they must communicate with external databases, cloud services, and third-party platforms to provide real-time value. This project served as a comprehensive introduction to the **Client-Server architecture**, focusing specifically on how a Java application can act as a consumer of web-based data. The core of this task involved creating a bridge between my local environment and a remote server. By targeting a public REST endpoint, I practiced the lifecycle of a web request: initializing a connection, defining the request parameters, handling the network latency, and finally, decoding the response into a format that a human user can understand. This project highlights my ability to integrate networking libraries and handle data interchange formats like **JSON**, which is the industry standard for web communication.
 
