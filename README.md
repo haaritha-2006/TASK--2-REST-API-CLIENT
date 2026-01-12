@@ -12,7 +12,7 @@
 
 *MENTOR*: Neela Santhosh Kumar
 
-## Task Description
+##**Task Description**
 
 During my professional internship at **CODTECH IT Solutions**, I was tasked with developing a **REST API Client** using Java. In the modern era of software development, applications rarely exist in isolation; they must communicate with external databases, cloud services, and third-party platforms to provide real-time value. This project served as a comprehensive introduction to the **Client-Server architecture**, focusing specifically on how a Java application can act as a consumer of web-based data. The core of this task involved creating a bridge between my local environment and a remote server. By targeting a public REST endpoint, I practiced the lifecycle of a web request: initializing a connection, defining the request parameters, handling the network latency, and finally, decoding the response into a format that a human user can understand. This project highlights my ability to integrate networking libraries and handle data interchange formats like **JSON**, which is the industry standard for web communication.
 
@@ -40,3 +40,4 @@ Networking is inherently unpredictable due to potential issues like server downt
 This project was a transformative experience during my time at **CODTECH IT Solutions**. It successfully shifted my perspective from building "standalone" desktop tools to developing "connected" applications. By mastering the ability to fetch, parse, and display live web data, I have gained a foundational skill set required for **Full-Stack Development** and **Backend Engineering**. The REST API Client is more than just a simple script; it is a proof of concept for how modern apps—from weather trackers to social media feeds—operate. This task has prepared me to tackle more advanced challenges, such as implementing authentication tokens, handling POST requests, and building my own APIs. This experience has significantly boosted my confidence in handling the complexities of the modern web ecosystem.
 
 #OUTPUT
+<img width="939" height="646" alt="Image" src="https://github.com/user-attachments/assets/d75bf466-c5e2-4a88-99b2-566fbfcca1af" />
